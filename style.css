@@ -99,6 +99,7 @@
 }
 
 .right-bottom {
+  margin-top: 10px;
   height: 300px;
   display: flex;
   justify-content: center;
